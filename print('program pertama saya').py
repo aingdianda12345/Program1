@@ -1,0 +1,6 @@
+print('program pertama saya')
+print('saya dianda prasetya')
+print('alamat saya desa terak')
+print('hobi saya memancing dan menggambar')
+print('saya berasal dari sekolah SMA muhammadiyah pangkal pinang')
+print(' saya lahir tanggal 4 januari 2006')
